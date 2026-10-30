@@ -1,4 +1,3 @@
-```md
 <!-- ====================================================== -->
 <!--                       HEADER                           -->
 <!-- ====================================================== -->
@@ -165,4 +164,3 @@ I'm always happy to connect with fellow developers, exchange ideas, learn from o
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:003B5C,100:0D1117&height=110&section=footer" width="100%" />
 
 </div>
-```
